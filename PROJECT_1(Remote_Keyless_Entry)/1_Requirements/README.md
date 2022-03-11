@@ -12,10 +12,10 @@ HLR_5.0 |Increased receiver sensitivity (The receiver shall be able to wake-up v
 
 ## LOW LEVEL REQUIREMENTS
 LLR     | DESCRIPTION
---------|-----------------------
+--------|---------------------------------------------
 LLR_1.0 |Battery life shall be good.
 LLR_2.0 |Cost shall be minimum.
 LLR_3.0 |It shall have keyless ignition feature.
-LLR_4.0 |Anti-theft system
-LLR_5.0 |Buzzer button for horn
+LLR_4.0 |Anti-theft system shall be there.
+LLR_5.0 |Push button for horn or buzzer.
 
